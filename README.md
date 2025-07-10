@@ -92,6 +92,6 @@ GET /search-location?query=Baner Pune
 
 ## 👨‍💻 Author
 
-**D Bhuvan Krishna **  
+D Bhuvan Krishna
 📧 bhuvankrishna2505@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/bhuvan-krishna-d/)
